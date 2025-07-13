@@ -1,4 +1,4 @@
-# UR
+# UR Zen
 Center your *URL* panel
 
 ## What it do?
