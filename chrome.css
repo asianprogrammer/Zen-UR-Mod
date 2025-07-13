@@ -4,7 +4,7 @@
  Date: Sunday, July 13, 2025
 */
 
-#urlbar[open] {
+#urlbar:not([zen-newtab])[open] {
 	top: 50% !important;
 	left: 50% !important;
 	transform: translate(-50%, -50%) !important;
