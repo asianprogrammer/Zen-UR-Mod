@@ -1,6 +1,10 @@
 # UR Zen
-Center your *URL* panel
 
-## What it do?
-It center your url bar when you try to change the url or remove
-# Zen-UR-Mod
+Centers your URL panel automatically when you edit or remove the URL, improving focus and user experience.
+
+## Features
+
+- Keeps the URL input panel visually centered during changes
+- Enhances usability with a clean, minimal effect
+
+![Demo](./demo.png)
