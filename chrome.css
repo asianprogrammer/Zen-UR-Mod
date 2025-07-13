@@ -1,0 +1,11 @@
+/* 
+ Mod: Zen Browser
+ Auther: Parvez Ahmed
+ Date: Sunday, July 13, 2025
+*/
+
+#urlbar[open] {
+	top: 50% !important;
+	left: 50% !important;
+	-moz-transfrom: translate(-50%, -50%) !important;
+}
