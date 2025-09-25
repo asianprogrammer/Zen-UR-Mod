@@ -1,0 +1,21 @@
+{
+  "id": "ur-zen",
+  "name": "UR Zen",
+  "version": "1.0.0",
+  "type": "style",
+  "description": "Centers the URL panel while editing, improving focus and user experience.",
+  "homepage": "https://github.com/asianprogrammer/Zen-UR-Mod/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Parvez Ahmed",
+      "email": "parveznew2022@gmail.com"
+    }
+  ],
+  "styles": [
+    {
+      "path": "chrome.css"
+    }
+  ],
+  "readme": "README.md"
+}

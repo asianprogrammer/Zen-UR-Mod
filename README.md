@@ -1,10 +1,23 @@
 # UR Zen
 
-Centers your URL panel automatically when you edit or remove the URL, improving focus and user experience.
+UR Zen centers the URL panel while you’re editing or after clearing the URL. This keeps your focus near the middle of the screen and reduces eye travel.
 
-## What it do?
+## What it does
+- Centers the URL panel during edits or when the field is empty
+- Uses lightweight CSS only (no scripts)
+- Minimal, distraction-free effect
 
-- Keeps the URL input panel visually centered during changes
-- Enhances usability with a clean, minimal effect
+## Install
+1. Download or clone this repository.
+2. Import the mod/style in Zen Browser (see Zen’s instructions for installing custom styles).
+3. Enable **UR Zen**.
 
-![Demo](./demo.png)
+## Preferences
+- **Center the URL panel** (`enableCentering`): Turn the centering effect on or off. Default: On.
+
+## Notes
+- The style avoids new tabs (`[zen-newtab]`).
+- If your Zen build doesn’t support `:has()`, the core effect still works.
+
+## License
+MIT
