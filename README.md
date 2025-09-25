@@ -12,4 +12,4 @@ UR Zen centers the URL panel while you’re editing or after clearing the URL. T
 2. Import the mod/style in Zen Browser (see Zen’s instructions for installing custom styles).
 
 ## License
-MIT
+GPL-3.0
