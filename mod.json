@@ -5,7 +5,7 @@
   "type": "style",
   "description": "Centers the URL panel while editing, improving focus and user experience.",
   "homepage": "https://github.com/asianprogrammer/Zen-UR-Mod/",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "authors": [
     {
       "name": "Parvez Ahmed",
